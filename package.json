@@ -24,8 +24,11 @@
     "type": "git",
     "url": "git+https://github.com/SuperFace/mutilroom.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "CDN"
+  ],
+  "author": "superface",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SuperFace/mutilroom/issues"
