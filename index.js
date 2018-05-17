@@ -2,13 +2,13 @@ const fs = require('fs-extra')
 const path = require('path')
 const chalk = require('chalk')
 
-// expose xtx
+// expose mutilroom
 module.exports = {
   run: run
 }
 
 /**
- * xtx命令入口
+ * mutilroom命令入口
  * @param  {String} cmd 命令名称
  */
 function run (cmd) {
