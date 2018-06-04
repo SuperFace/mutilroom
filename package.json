@@ -1,7 +1,7 @@
 {
   "name": "mutilroom",
   "version": "1.0.1",
-  "description": "CDN批量上传工具",
+  "description": "",
   "main": "index.js",
   "bin": {
     "mutilroom": "./bin/mutilroom"
